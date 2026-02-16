@@ -19,7 +19,7 @@ require (
 	golang.org/x/tools v0.41.0
 	gotest.tools/gotestsum v1.13.0
 	gotest.tools/v3 v3.5.2
-	honnef.co/go/tools v0.6.1
+	honnef.co/go/tools v0.7.0
 )
 
 require (
